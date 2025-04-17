@@ -47,7 +47,7 @@ export const User = styled.div`
         display: flex;
         align-items: center;
         margin-top: 3px;
-
+        
         > svg {
             margin-right: 5px;
         }
